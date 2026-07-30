@@ -18,6 +18,7 @@ class PushAI extends StatelessWidget {
 
       theme: ThemeData(
         brightness: Brightness.dark,
+        scaffoldBackgroundColor: Colors.black,
       ),
 
       home: const HomeScreen(),
